@@ -1,0 +1,320 @@
+@charset "utf-8";
+
+.hidden{
+	display: none;
+}
+
+p{
+	text-align: center;
+	font-weight: normal;	
+	color: white;
+	line-height: 100px;
+	margin: 0 auto;
+}
+
+div,p,body,header,footer,section,article,nav{ 
+	margin: 0; 
+	padding: 0; 
+}	
+
+body {
+	font-family: 'Arial', Helvetica, sans-seris;
+	font-size: 18px;
+	padding: 20px;
+}
+
+#container{
+	width: 1400px;
+	background-color: #e7e2e2;
+	margin: 0 auto;
+	
+}
+
+#mainHeader{
+	overflow: hidden;
+}
+
+#logoHeader{
+	background-color: #111111;
+	width: 240px;	
+	float: left;
+}
+
+#logoHeader p{
+	line-height: 216px;
+}
+
+#searchBar{
+	width: 307px;	
+	background-color: #363636;
+	float: right;
+	margin-top: 103px;
+}
+
+#searchBar p{
+	line-height: 42px;
+}
+
+#mainNav{
+	width: 1160px;	
+	background-color: #636363;	
+	float: right;
+}
+
+#mainNav p{
+	line-height: 72px;
+}
+
+#banner{
+    width: 1400px;    
+    background-color: #959595;
+    float: right;
+}
+
+#banner p{
+	line-height: 215px;
+}
+
+#welcomeText{
+	background-color: #464646;
+	width: 1183px;	
+	margin: 0 auto;    													                                                                                                                                                                               
+	margin-top: 30px;
+	margin-right: 108.5px;
+	margin-left: 108.5px; 	
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#welcomeText p{
+	line-height: 265px;
+}
+
+#trout{
+	margin-top: 30px;
+}
+
+#img{
+    float: left;
+    width: 219px;
+    background-color: #a1a1a1;
+    margin-left: 34px;
+}
+
+#img p{
+	line-height: 219px;
+}
+
+#troutHatchery{
+	background-color: #464646;
+	width: 1050px;
+	float: right;
+	margin-right: 34px;
+}
+
+#troutHatchery p{
+	line-height: 219px;
+}
+
+#local {
+    margin-top: 30px;
+	width: 1330px;																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															;
+	background-color: #555555;
+	float: right;
+	margin-right: 35px;
+}
+
+#local p{
+	line-height: 55px;
+}
+
+.slide{
+	width: 266px;
+	background-color: #555555;
+	height: 491px;
+	float: left;	
+}
+
+.slideLast{
+	float: right;
+	width: 266px;
+	background-color: #555555;
+	height: 491px;
+	margin-right: 35px;	
+}
+
+#slides{
+     margin-left: 35px;
+}
+
+.image {
+	width: 229px;
+	background-color: #a1a1a1;
+	margin-left: 18px;
+}
+
+.image p{
+	line-height: 80px;
+}
+
+#announcements {
+	float: right;
+	margin-right: 122px;
+	margin-left: 122px;
+	margin-top: 30px;
+}
+
+#membership{
+	width: 537px;
+	float: left;
+	margin-right: 80px;
+	background-color: #252525;
+}
+
+#membership p{
+	line-height: 296px;
+}
+
+#fund{
+	width: 537px;
+	float: right;
+	background-color: #252525;
+}
+
+#membership p{
+	line-height: 296px;
+}
+
+#fund p{
+	line-height: 296px;
+}
+
+button{
+	float: right;
+	line-height: 30px;
+	background-color: #555555;
+	color: white;
+}
+
+#footer {
+	width: 1400px;
+	height: 146px;
+	background-color: #252525;
+	margin-top: 1230px;
+}
+
+#socMedCon{
+margin-left: 120px;
+padding-top: 20px;
+}
+
+#follow{
+	width: 330px;
+	background-color: #555555;
+}
+
+#follow p{
+	line-height: 45px;
+}
+
+.icon{
+	width: 42px;
+	height: 42px;
+	background-color: #959595;
+	float: left;
+	margin-left: 30px;
+	margin-top: 15px;
+}
+
+#copy {
+	width: 545px;
+	background-color: #555555;
+	float: right;
+	margin-right: 120px;
+}
+
+#copy p{
+	line-height: 45px;
+}
+
+
+
+
+
+
+
+#about {
+	width: 1184px;
+	background-color: #464646;
+	margin-top: 30px;
+    margin-right: 108px;
+    margin-left: 108px;
+}
+
+#about p{
+	line-height: 293px;
+}
+
+#photos{
+	margin-top: 30px;
+	margin-right: 200px;
+	margin-left: 113px;
+}
+
+.promoImg{
+	width: 259px;
+	background-color: #464646;
+	float: left;
+	margin-left: 87px;
+}
+
+.promoImgLast{
+	width: 259px;
+	background-color: #464646;
+    float: right;
+    }
+
+.promoImg p{
+	line-height: 219px;
+}
+
+.promoImgLast p{
+	line-height: 219px;
+}
+
+#moreAbout {
+	width: 1184px;
+	background-color: #464646;
+	margin-top: 290px;
+    margin-right: 108px;
+    margin-left: 108px;
+}
+
+#moreAbout p{
+	line-height: 293px;
+}
+
+#executives {
+	width: 1184px;
+	background-color: #464646;
+	margin-top: 30px;
+    margin-right: 108px;
+    margin-left: 108px;
+}
+
+#executives p{
+	line-height: 293px;
+}
+
+#volunteer {
+	width: 1184px;
+	background-color: #464646;
+	margin-top: 30px;
+    margin-right: 108px;
+    margin-left: 108px;
+    margin-bottom: -1000px;
+}
+
+#volunteer p{
+	line-height: 293px;
+}
